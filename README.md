@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @vbipi
+- 👀 I’m interested in expanding open source projects
+- 🌱 I’m currently learning to play the guitar
+- 💞️ I’m looking to collaborate on data scraping projects
